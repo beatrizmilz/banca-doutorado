@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs/
+
+lang: pt
+
+website:
+  title: "Defesa da Tese de Doutorado"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Informações"
+    author:
+    - name: "Beatriz Milz"
+      id: "bm"
+      email: "milz.bea@gmail.com"
+      url: "https://beamilz.com"
+      orcid: "0000-0002-3064-4486"
+      affiliation:
+        - name: Instituto de Energia e Ambiente - Universidade de São Paulo
+          city: São Paulo
+          state: SP
+          country: Brasil
+          url: https://www.iee.usp.br/
+    - name: "Pedro Roberto Jacobi (Orientador)"
+      id: "prj"
+      email: "prjacobi@gmail.com"
+      url: "https://scholar.google.com.br/citations?user=LavkF8cAAAAJ&hl=pt-BR"
+      orcid: "0000-0001-6143-3019"
+      affiliation:
+        - name: Instituto de Energia e Ambiente - Universidade de São Paulo
+          city: São Paulo
+          state: SP
+          country: Brasil
+          url: https://www.iee.usp.br/
+    - name: "Sandra Momm (Co-orientadora)"
+      id: "sm"
+      email: "sandra.momm@gmail.com"
+      url: "https://scholar.google.com.br/citations?user=c6tyJTkAAAAJ&hl=pt-BR"
+      affiliation:
+        - name: Universidade Federal do ABC
+          city: São Bernardo do Campo
+          state: SP
+          country: Brasil
+          url: https://www.ufabc.edu.br/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

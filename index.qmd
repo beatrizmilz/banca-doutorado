@@ -1,0 +1,73 @@
+---
+title: "Defesa da Tese de Doutorado: Beatriz Milz"
+author:
+  - name: "Beatriz Milz"
+    id: "bm"
+    email: "milz.bea@gmail.com"
+    url: "https://beamilz.com"
+    orcid: "0000-0002-3064-4486"
+    affiliation:
+      - name: Instituto de Energia e Ambiente - Universidade de São Paulo
+        city: São Paulo
+        state: SP
+        country: Brasil
+        url: https://www.iee.usp.br/
+  - name: "Pedro Roberto Jacobi (Orientador)"
+    id: "prj"
+    email: "prjacobi@gmail.com"
+    url: "https://scholar.google.com.br/citations?user=LavkF8cAAAAJ&hl=pt-BR"
+    orcid: "0000-0001-6143-3019"
+    affiliation:
+      - name: Instituto de Energia e Ambiente - Universidade de São Paulo
+        city: São Paulo
+        state: SP
+        country: Brasil
+        url: https://www.iee.usp.br/
+  - name: "Sandra Momm (Co-orientadora)"
+    id: "sm"
+    email: "sandra.momm@gmail.com"
+    url: "https://scholar.google.com.br/citations?user=c6tyJTkAAAAJ&hl=pt-BR"
+    affiliation:
+      - name: Universidade Federal do ABC
+        city: São Bernardo do Campo
+        state: SP
+        country: Brasil
+        url: https://www.ufabc.edu.br/
+---
+
+## Informações gerais
+
+- Doutoranda: [Beatriz Milz](http://lattes.cnpq.br/5150665880581477)
+
+- Título da Tese: "Transparência ativa na gestão de recursos hídricos na Macrometrópole Paulista"
+
+- Apoio: Processos [nº 18/23771-6](https://bv.fapesp.br/pt/bolsas/185176/transparencia-ativa-na-gestao-de-recursos-hidricos-na-macrometropole-paulista-utilizando-o-metodo-in/) e [nº 15/03804-9](https://bv.fapesp.br/pt/auxilios/97000/governanca-ambiental-da-macrometropole-paulista-face-a-variabilidade-climatica/?q=15/03804-9), Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).
+
+- Projeto Temático FAPESP "[Governança ambiental da macrometrópole paulista face à variabilidade climática](https://bv.fapesp.br/pt/auxilios/97000/governanca-ambiental-da-macrometropole-paulista-face-a-variabilidade-climatica/?q=15/03804-9)".
+
+## Data e local
+
+- 22 de março de 2024 (sexta-feira) - 14:00 horas
+
+- Modalidade: Híbrida (Presencial e Virtual)
+
+- Presencial: Sala 04 - Prédio "Q" - Instituto de Energia e Ambiente da USP.
+
+- Virtual: <https://meet.google.com/zic-jbbc-ovy>
+
+## Comissão Julgadora
+
+- [Prof. Dr. Pedro Roberto Jacobi](http://lattes.cnpq.br/6799067928413168) - PROCAM-IEE/USP - Orientador e Presidente da Comissão Julgadora
+
+Comissão Julgadora:
+
+- [Prof. Dr. Rafael Bassi Stern](http://lattes.cnpq.br/7846211197320014) - IME/USP
+
+- [Dra Fernanda Campagnucci Pereira](http://lattes.cnpq.br/4102081175865187) - UM
+
+- [Dra Rosa Maria de Oliveira Machado Mancini](http://lattes.cnpq.br/6112881558161278) - SMA/SP
+
+- [Prof. Dr. Tadeu Fabrício Malheiros](http://lattes.cnpq.br/4422237568128846) - EESC/USP  
+
+- [Dr. Angelo José Rodrigues Lima](http://lattes.cnpq.br/5134353392384168) - OGA-Brasil
+
