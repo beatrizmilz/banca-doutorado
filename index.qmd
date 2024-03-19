@@ -53,7 +53,7 @@ author:
 
 -   Presencial: Sala 04 - Prédio "Q" - Instituto de Energia e Ambiente da USP.
 
--   Virtual: <https://meet.google.com/zic-jbbc-ovy>
+-   Virtual: <https://usp-br.zoom.us/j/85475676971?pwd=QnZnd1hMU3YySS9WUFJ4cUY0UEVYQT09>
 
 ## Comissão Julgadora
 
@@ -73,11 +73,10 @@ Comissão Julgadora:
 
 ## Resumo
 
-A Macrometrópole Paulista (MMP) é considerada a maior aglomeração urbana do Brasil, com mais de 35 milhões de habitantes. Essa região apresenta crescentes riscos de enfrentamento de problemas de escassez de água, que são intensificados em um cenário de emergência climática. Nesse contexto, mecanismos de transparência são de grande importância para a sociedade. 
+A Macrometrópole Paulista (MMP) é considerada a maior aglomeração urbana do Brasil, com mais de 35 milhões de habitantes. Essa região apresenta crescentes riscos de enfrentamento de problemas de escassez de água, que são intensificados em um cenário de emergência climática. Nesse contexto, mecanismos de transparência são de grande importância para a sociedade.
 
-Esta pesquisa desenvolveu o Índice Paulista de Transparência em Gestão de Recursos Hídricos (IPTGRH), que avalia a transparência ativa em órgãos gestores de recursos hídricos na MMP e no estado de São Paulo. O índice é calculado a partir do Sistema Integrado de Gerenciamento de Recursos Hídricos do Estado de São Paulo (SigRH), que foi identificado como a principal fonte de informação na pesquisa de opinião aplicada a representantes de quatro Comitês de Bacias Hidrográficas (CBHs). 
+Esta pesquisa desenvolveu o Índice Paulista de Transparência em Gestão de Recursos Hídricos (IPTGRH), que avalia a transparência ativa em órgãos gestores de recursos hídricos na MMP e no estado de São Paulo. O índice é calculado a partir do Sistema Integrado de Gerenciamento de Recursos Hídricos do Estado de São Paulo (SigRH), que foi identificado como a principal fonte de informação na pesquisa de opinião aplicada a representantes de quatro Comitês de Bacias Hidrográficas (CBHs).
 
 O IPT-GRH, baseado nos Princípios de Dados Abertos, revelou necessidades de melhorias nas informações disponibilizadas, principalmente relacionadas aos princípios de Tempestividade e Completude. Os resultados indicam a importância de atualizações regulares e fornecimento de informações completas pelos órgãos responsáveis. A pesquisa ainda sugere formas de aplicar o índice em outros órgãos e regiões, contribuindo para promover a transparência na gestão dos recursos hídricos, essencial para o controle social.
-
 
 **Palavras-chave:** Lei de acesso à informação. Crise hídrica. Dados Abertos. Comitês de Bacias Hidrográficas. Índice de transparência.
