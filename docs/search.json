@@ -28,6 +28,13 @@
     "text": "Comissão Julgadora\n\nProf. Dr. Pedro Roberto Jacobi - PROCAM-IEE/USP - Orientador e Presidente da Comissão Julgadora\n\nComissão Julgadora:\n\nProf. Dr. Rafael Bassi Stern - IME/USP\nDra Fernanda Campagnucci Pereira - UM\nDra Rosa Maria de Oliveira Machado Mancini - SMA/SP\nProf. Dr. Tadeu Fabrício Malheiros - EESC/USP\nDr. Angelo José Rodrigues Lima - OGA-Brasil"
   },
   {
+    "objectID": "index.html#repositórios-relevantes",
+    "href": "index.html#repositórios-relevantes",
+    "title": "Defesa da Tese de Doutorado: Beatriz Milz",
+    "section": "Repositórios relevantes",
+    "text": "Repositórios relevantes\nOs links abaixo indicam repositórios que contém códigos desenvolvidos nessa pesquisa.\n\nRepositórios abertos\nEsses códigos estão disponíveis sob a licença CC BY 4.0. Isso significa que os usuários são livres para: copiar, adaptar, distribuir, transmitir, e fazer uso do trabalho, desde que deem crédito aos autores.\n\n\nAttribution 4.0 International\n\n\nMananciais - Pacote em R para acessar dados raspados do Portal Mananciais da Sabesp. Possibilita também acessar diretamente os dados nos formatos .csv (Planilha) e .xlsx (Excel):\n\nArquivo .csv\nArquivo .xlsx\n\nComitesBaciaSP - Pacote em R que disponibiliza funções para obter dados sobre os Comitês de Bacias Hidrográficas do Estado de São Paulo, disponíveis de forma não estruturada no site SigRH.\niptgrh_scraper - Repositório que utiliza um workflow com GitHub Actions para coletar dados do SigRH, duas vezes ao mês, e salvar no repositório.\niptgrh - [Em desenvolvimento] Repositório com os códigos usados na tese para calcular o IPT-GRH.\n\n\n\nRepositórios fechados\n\ntese - Apresenta os códigos desenvolvidos para a tese de doutorado, incluindo a análise de dados, a construção do índice e a escrita da tese. Ainda não está disponível para acesso público, mas o objetivo é liberar o acesso após a conclusão da pesquisa. Ainda não foi aberto pois precisamos garantir que não haja informações sensíveis no repositório (como as respostas aos surveys)."
+  },
+  {
     "objectID": "index.html#resumo",
     "href": "index.html#resumo",
     "title": "Defesa da Tese de Doutorado: Beatriz Milz",

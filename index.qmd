@@ -71,6 +71,37 @@ Comissão Julgadora:
 
 -   [Dr. Angelo José Rodrigues Lima](http://lattes.cnpq.br/5134353392384168) - OGA-Brasil
 
+## Repositórios relevantes
+
+Os links abaixo indicam repositórios que contém códigos desenvolvidos nessa pesquisa.
+
+### Repositórios abertos
+
+Esses códigos estão disponíveis sob a licença [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Isso significa que os usuários são livres para: copiar, adaptar, distribuir, transmitir, e fazer uso do trabalho, desde que deem crédito aos autores.
+
+<center>
+
+<p xmlns:cc="http://creativecommons.org/ns#">
+
+<a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/></a>
+
+</center>
+
+-   [Mananciais](https://beatrizmilz.github.io/mananciais/) - Pacote em R para acessar dados raspados do Portal Mananciais da Sabesp. Possibilita também acessar diretamente os dados nos formatos `.csv` (Planilha) e `.xlsx` (Excel):
+
+    -   [Arquivo `.csv`](https://github.com/beatrizmilz/mananciais/raw/master/inst/extdata/mananciais.csv)
+    -   [Arquivo `.xlsx`](https://github.com/beatrizmilz/mananciais/blob/master/inst/extdata/mananciais.xlsx?raw=true)
+
+-   [ComitesBaciaSP](https://beatrizmilz.github.io/ComitesBaciaSP/index.html) - Pacote em R que disponibiliza funções para obter dados sobre os Comitês de Bacias Hidrográficas do Estado de São Paulo, disponíveis de forma não estruturada no site SigRH.
+
+-   [iptgrh_scraper](https://github.com/beatrizmilz/iptgrh_scraper) - Repositório que utiliza um workflow com GitHub Actions para coletar dados do SigRH, duas vezes ao mês, e salvar no repositório.
+
+-   [iptgrh](https://github.com/beatrizmilz/iptgrh) - [**Em desenvolvimento**] Repositório com os códigos usados na tese para calcular o IPT-GRH.
+
+### Repositórios fechados
+
+-   [tese](https://github.com/beatrizmilz/tese) - Apresenta os códigos desenvolvidos para a tese de doutorado, incluindo a análise de dados, a construção do índice e a escrita da tese. Ainda não está disponível para acesso público, mas o objetivo é liberar o acesso após a conclusão da pesquisa. Ainda não foi aberto pois precisamos garantir que não haja informações sensíveis no repositório (como as respostas aos surveys).
+
 ## Resumo
 
 A Macrometrópole Paulista (MMP) é considerada a maior aglomeração urbana do Brasil, com mais de 35 milhões de habitantes. Essa região apresenta crescentes riscos de enfrentamento de problemas de escassez de água, que são intensificados em um cenário de emergência climática. Nesse contexto, mecanismos de transparência são de grande importância para a sociedade.
