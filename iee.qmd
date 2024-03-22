@@ -1,0 +1,40 @@
+---
+title: Como chegar
+---
+
+A defesa acontecerá na Sala 04, no Prédio "Q" do Instituto de Energia e Ambiente da USP.
+
+Endereço: Av. Prof. Luciano Gualberto, 1289 - Vila Universitaria, São Paulo - SP, 05508-900
+
+
+## Como chegar no prédio Q?
+
+No mapa abaixo, existem algumas marcações para ajudar:
+
+  - **1** - Entrada do IEE/USP
+
+   - **2** - Prédio Q (onde será a banca)
+
+   - **Linha tracejada azul**: caminho da entrada do instituto até o prédio Q, é possível fazer parcialmente por carro, ou a pé.
+
+![](images/mapa-q.png){fig-align="center"}
+
+<!-- [![Planta Baixa do IEE. Fonte: IEE](images/clipboard-1866438998.png)](https://www.iee.usp.br/?q=pt-br/planta-baixa) -->
+
+
+## Entrada no IEE-USP
+
+É necessário se identificar para entrar.
+
+![Google Street View - Entrada do IEE/USP](iee-entrada.png){fig-align="center"}
+
+## Mapa do Google
+
+
+<center>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1828.6486284112887!2d-46.73308636548713!3d-23.55776515542654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbr!4v1711112050102!5m2!1sen!2sbr" width="100%" height="600" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+</center>

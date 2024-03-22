@@ -51,9 +51,10 @@ author:
 
 -   Modalidade: Híbrida (Presencial e Virtual)
 
--   Presencial: Sala 04 - Prédio "Q" - Instituto de Energia e Ambiente da USP.
+-   Presencial: Sala 04 - Prédio "Q" - Instituto de Energia e Ambiente da USP. [Clique aqui para ver como chegar](iee.qmd).
 
 -   Virtual: <https://usp-br.zoom.us/j/85475676971?pwd=QnZnd1hMU3YySS9WUFJ4cUY0UEVYQT09>
+
 
 ## Comissão Julgadora
 
@@ -96,7 +97,7 @@ Esses códigos estão disponíveis sob a licença [CC BY 4.0](http://creativecom
 
 -   [iptgrh_scraper](https://github.com/beatrizmilz/iptgrh_scraper) - Repositório que utiliza um workflow com GitHub Actions para coletar dados do SigRH, duas vezes ao mês, e salvar no repositório.
 
--   [iptgrh](https://github.com/beatrizmilz/iptgrh) - [**Em desenvolvimento**] Repositório com os códigos usados na tese para calcular o IPT-GRH.
+-   [iptgrh](https://github.com/beatrizmilz/iptgrh) - \[**Em desenvolvimento**\] Repositório com os códigos usados na tese para calcular o IPT-GRH.
 
 ### Repositórios fechados
 

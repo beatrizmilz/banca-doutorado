@@ -10,6 +10,10 @@ website:
     left:
       - href: index.qmd
         text: "Informações"
+      - href: iee.qmd
+        text: "Como chegar"
+      - href: slides.pdf
+        text: Slides
     author:
     - name: "Beatriz Milz"
       id: "bm"
